@@ -1,21 +1,3 @@
-# typora Cracker
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker?ref=badge_shield)
-
-
-A patch and keygen tools for typora.
-
-中文说明请戳[这里](README_CN.md)
-
-## WARNING
-```
-FOR STUDY AND DISCUSSION ONLY, PLEASE DO NOT ENGAGE IN ANY ILLEGAL ACTS.
-ANY PROBLEMS ARISING FROM THIS WILL BE BORNE BY THE USER (YOU).
-```
-
-## Features
-
-- Supports ALL OS supported by typora
-
 ## Usage
 
 1. `pip install -r requirements.txt`
@@ -63,5 +45,3 @@ serial: XXXXXX-XXXXXX-XXXXXX-XXXXXX
 
 ## LICENSE
  MIT LICENSE
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMas0nShi%2FtyporaCracker?ref=badge_large)
